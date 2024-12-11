@@ -7,6 +7,6 @@ lab 3
 - git checkout main //เปลี่ยน branch
 - git status //เช็คสถานะ
 - git add . //add เพื่อบันทึกการเปลี่ยนแปลงเตรียม commit
--git commit -m "comment" //commit พร้อมแสดงความคิดเห็น
+- git commit -m "comment" //commit พร้อมแสดงความคิดเห็น
 - git merge filename //ผสานไฟล์จากแต่ละ branch มาที่ main branch
 - git push//อัปข้อมูลขึ้น server
